@@ -1,0 +1,5 @@
+{
+	"vs_ip": "10.10.10.1",
+	"vs_port": 80,
+	"domain": "dev_tcp.example.com"
+}
